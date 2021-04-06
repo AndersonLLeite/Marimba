@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="200" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png">
+  <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
 </p>
 
 # Marimba 🎹
@@ -13,7 +13,7 @@ Nesse módulo, nós mergulharemos em mais conceitos de programação em Dart e a
 Vamos fazer um aplicativo de música que reproduz os sons de um Marimba. 
 
 <p align="center">
-  <img width="219" height="439" src="https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/marimba-flutter-novo.png">
+  <img width="219" height="439" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/marimba-flutter-novo.png">
 </p>
 
 ## O que nós iremos aprender?
